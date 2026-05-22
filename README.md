@@ -1,0 +1,2 @@
+# The-IoT-Based-Gas-Leakage-Detection-and-Safety-System-
+The IoT Based Gas Leakage Detection and Safety System is a smart safety solution that detects harmful gas leakage using an MQ-2 sensor and automatically activates a buzzer, fan, and pump to reduce hazards. Using Arduino UNO, NodeMCU ESP8266, and Blynk IoT, the system enables real-time monitoring, cloud connectivity, and instant mobile alerts.
